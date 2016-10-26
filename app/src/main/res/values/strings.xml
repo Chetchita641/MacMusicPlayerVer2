@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mac Music Player</string>
+    <string name="now_playing_explanation">Here, the buttons on the media player would use the Android multimedia framework to play files on the user\'s phone. </string>
+
+    <!-- List of Playlists -->
+    <string name="playlist_item1">Workout Mix</string>
+    <string name="playlist_item2">Coding Mix</string>
+    <string name="playlist_item3">Video Game Mix</string>
+    <string name="playlist_explanation">Here, I would have an intent that would lead the user from clicking on a playlist to a list of its songs. From there, a user could click on a song to start playing it.</string>
+
+    <!-- List of Artists -->
+    <string name="artist_item1">The Killers</string>
+    <string name="artist_item2">Ratatat</string>
+    <string name="artist_item3">Rodrigo y Gabriella</string>
+    <string name="artist_explanation">Here, I would have an intent to that would lead the user from clicking on the artist to a generated list of their songs.</string>
+
+    <!-- List of Albums -->
+    <string name="album_item1">9 Dead Alive</string>
+    <string name="album_item2">Magnifique</string>
+    <string name="album_item3">Sam\'s Town</string>
+    <string name="album_explantion">Here, I would have an intent to that would lead the user from clicking on the album to a generated list of its songs.</string>
+
+    <!-- List of Songs -->
+    <string name="song_item1">Cream on Chrome</string>
+    <string name="song_item2">For Reasons Unknown</string>
+    <string name="song_item3">Megalopolis</string>
+    <string name="song_explanation">Here I would have an intent to would lead the user from clicking on a song to playing it.</string>
+
+
+
+</resources>
